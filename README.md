@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 👯 I’m looking to collaborate on Data Science and Data Engineering 
+
 - 📝 I regulary write articles on [balijepalli.com](balijepalli.com)
 
 - 📫 How to reach me **preetam.balijepalli@gmail.com**
