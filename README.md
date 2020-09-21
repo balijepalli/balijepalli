@@ -5,6 +5,9 @@
 
 - 👯 I’m looking to collaborate on Data and Digital Engineering For Decision Science
 
+      - Polyglot developer mainly working with Java, Scala and Python
+      - Cloud & Container technology enthusiast and advocate
+
 - 📝 I regulary write articles on [balijepalli.com](balijepalli.com)
 
 - 📫 How to reach me **preetam.balijepalli@gmail.com**
