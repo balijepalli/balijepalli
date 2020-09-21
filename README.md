@@ -23,7 +23,6 @@
 </p>
 
 <p align="center">
-&nbsp;&nbsp;
 <a href="https://twitter.com/balijepalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg?raw=true" alt="balijepalli" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/preetambalijepalli/"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?raw=true" height="20" width="20" ></a>&nbsp;&nbsp;
 <a href="https://balijepalli.github.io/"><img height="27" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?raw=true" alt="balijepalli.github.io"></a>&nbsp;&nbsp;
