@@ -7,8 +7,11 @@
 
       - Polyglot developer mainly working with Java, Scala and Python 
       - Cloud & Container technology enthusiast and advocate
+      - Passionate about clean code practices
+      - Expertise in solution ideation and rapid prototyping
+      - Love Bicycles, Circular Economy, and Gardening
 
-- 📝 I regulary write articles on [balijepalli.com](balijepalli.com)
+- 📝 You can visit my website on [balijepalli.com](balijepalli.com) to read my blog posts and to learn more about me.
 
 - 📫 How to reach me **preetam.balijepalli@gmail.com**
 
