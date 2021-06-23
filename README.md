@@ -16,13 +16,13 @@
 - 📫 How to reach me **preetam.balijepalli@gmail.com**
 
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
 </p>
 
 <p align="center">
