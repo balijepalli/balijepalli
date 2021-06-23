@@ -15,9 +15,13 @@
 
 - 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
-
+# GOODREADS
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <p align="left">
