@@ -15,11 +15,11 @@
 
 - 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
-#### What I'm Currently Reading 📕
+**What I'm Currently Reading 📕**
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
-### Last 5 📚 I've Read
+**Last 5 📚 I've Read**
 <!-- GOODREADS-READ-LIST:START -->
 <!-- GOODREADS-READ-LIST:END -->
 
@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-#### StackOverflow 
+**StackOverflow** 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
