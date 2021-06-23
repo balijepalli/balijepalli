@@ -1,29 +1,43 @@
 <h1 align="center">Hey there 👋, I'm Preetam Balijepalli</h1>
 <h3 align="center">An agile architect on cloud - (n)</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data and Machine Learning Engineering**
 
 - 👯 I’m looking to collaborate on Data and Digital Engineering For Decision Science
 
-- 📝 I regulary write articles on [balijepalli.com](balijepalli.com)
+      - Polyglot developer mainly working with Java, Scala and Python
+      - Cloud & Container technology enthusiast and advocate
+      - Passionate about clean code practices
+      - Expertise in solution ideation and rapid prototyping
+      - Love Bicycles, Circular Economy, and Gardening
 
-- 📫 How to reach me **preetam.balijepalli@gmail.com**
+- 📝 You can visit my website on [balijepalli.com](balijepalli.com) to read my blog posts and to learn more about me.
+
+- 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 </p>
 
 <p align="center">
-&nbsp;&nbsp;
-<a href="https://twitter.com/balijepalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg?raw=true" alt="balijepalli" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/preetambalijepalli/"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?raw=true" height="20" width="20" ></a>&nbsp;&nbsp;
-<a href="https://balijepalli.github.io/"><img height="27" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?raw=true" alt="balijepalli.github.io"></a>&nbsp;&nbsp;
-<a href="mailto:preetam.balijepalli@gmail.com"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true" height="20" width="20" ></a>
-&nbsp;&nbsp;
+You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 </p>
+
+
+<!-- Icons -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true
+
+[![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=cobalt)
+](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Links to your social media accounts -->
+[1]: https://twitter.com/balijepalli
+[2]: https://www.linkedin.com/in/preetambalijepalli/
+[3]: **preetam.balijepalli@gmail.com**
