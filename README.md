@@ -33,7 +33,7 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true
 
-[![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=tokyonight)
+[![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Links to your social media accounts -->
