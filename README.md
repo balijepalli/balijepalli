@@ -15,6 +15,11 @@
 
 - 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
+
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+
+
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
@@ -24,9 +29,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 </p>
 
-<p align="center">
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
-</p>
 
 
 <!-- Icons -->
