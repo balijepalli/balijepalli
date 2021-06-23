@@ -13,7 +13,7 @@
 
 - 📝 You can visit my website on [balijepalli.com](balijepalli.com) to read my blog posts and to learn more about me.
 
-- 📫 How to reach me **preetam.balijepalli@gmail.com**
+- 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
 <p align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
@@ -25,9 +25,18 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 </p>
 
-<p align="center">
-<a href="https://twitter.com/balijepalli" target="blank"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg?raw=true" alt="balijepalli" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/preetambalijepalli/"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?raw=true" height="20" width="20" ></a>&nbsp;&nbsp;
-<a href="https://balijepalli.github.io/"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?raw=true" alt="balijepalli.github.io"></a>&nbsp;&nbsp;
-<a href="mailto:preetam.balijepalli@gmail.com"><img height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true" height="20" width="20" ></a>
-</p>
+You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
+
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/balijepalli
+[2]: https://www.linkedin.com/in/preetambalijepalli/
+[3]: **preetam.balijepalli@gmail.com**
+
