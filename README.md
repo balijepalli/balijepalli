@@ -15,20 +15,25 @@
 
 - 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
-#### Good Reads
+#### What I'm Currently Reading 📕
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
-📕 **Latest Blog Posts**
+### Last 5 📚 I've Read
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
+
+**Latest Blog Posts** ✏️
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 #### StackOverflow 
 <!-- STACKOVERFLOW:START -->
-- [Answer by preetam.balijepalli for AWS Sagemaker ClientError: imread read blank (None) image for file: /opt/ml/input/data/train/image_directory/key_of_first_image.jpg](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
-- [Answer by preetam.balijepalli for Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline/47384654#47384654)
-- [Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline)
 <!-- STACKOVERFLOW:END -->
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=balijepalli&hide_title=true&hide_border=true&langs_count=5)
 
 
 
