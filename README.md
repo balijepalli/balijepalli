@@ -15,15 +15,15 @@
 
 - 📫 How to reach me at **preetam.balijepalli@gmail.com**
 
-# GOODREADS
+#### Good Reads
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
 
-# Blog posts
+#### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+#### StackOverflow 
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
