@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-**StackOverflow** 
+**StackOverflow**
 <!-- STACKOVERFLOW:START -->
 - [Answer by preetam.balijepalli for AWS Sagemaker ClientError: imread read blank (None) image for file: /opt/ml/input/data/train/image_directory/key_of_first_image.jpg](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
 - [Answer by preetam.balijepalli for Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline/47384654#47384654)
@@ -59,6 +59,9 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 [![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=cobalt)
 ](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&exclude_repo=github-readme-stats,balijepalli.github.io)](https://github.com/balijepalli/github-readme-stats)
+
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/balijepalli
