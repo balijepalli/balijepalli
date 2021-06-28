@@ -28,6 +28,11 @@
 
 **Last 5 📚 I've Read**
 <!-- GOODREADS-READ-LIST:START -->
+- [xUnit Test Patterns: Refactoring Test Code](https://www.goodreads.com/review/show/725322953?utm_medium=api&utm_source=rss) by Gerard Meszaros (unrated)
+- [Single Page Apps in Depth](https://www.goodreads.com/review/show/621685839?utm_medium=api&utm_source=rss) by Mikito Takada (unrated)
+- [REST in Practice: Hypermedia and Systems Architecture](https://www.goodreads.com/review/show/700289704?utm_medium=api&utm_source=rss) by Jim Webber (⭐⭐⭐)
+- [Hadoop Operations](https://www.goodreads.com/review/show/445979903?utm_medium=api&utm_source=rss) by Eric Sammer (⭐⭐⭐⭐)
+- [RESTful Java with JAX-RS 2.0](https://www.goodreads.com/review/show/692520694?utm_medium=api&utm_source=rss) by Bill Burke (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 **Latest Blog Posts** ✏️
