@@ -17,13 +17,13 @@
 
 **What I'm Currently Reading 📕**
 <!-- GOODREADS-LIST:START -->
+- [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.74)
+- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.26)
+- [Monolith to Microservices: Sustaining Productivity While Detangling the System](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.27)
 - [Data Algorithms: Recipes for Scaling Up with Hadoop and Spark](https://www.goodreads.com/review/show/1662462673?utm_medium=api&utm_source=rss) by Mahmoud Parsian (⭐️3.5)
 - [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.02)
 - [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.83)
 - [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve  Freeman (⭐️4.18)
-- [xUnit Test Patterns: Refactoring Test Code](https://www.goodreads.com/review/show/725322953?utm_medium=api&utm_source=rss) by Gerard Meszaros (⭐️3.94)
-- [Programming Interviews Exposed: Secrets to Landing Your Next Job (Programmer to Programmer)](https://www.goodreads.com/review/show/443922912?utm_medium=api&utm_source=rss) by John Mongan (⭐️3.9)
-- [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) by Edd Wilder-James (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
 
 **Last 5 📚 I've Read**
