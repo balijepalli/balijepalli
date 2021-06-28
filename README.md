@@ -19,12 +19,9 @@
 <!-- GOODREADS-LIST:START -->
 - [Data Algorithms: Recipes for Scaling Up with Hadoop and Spark](https://www.goodreads.com/review/show/1662462673?utm_medium=api&utm_source=rss) by Mahmoud Parsian (⭐️3.5)
 - [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.02)
-- [REST in Practice: Hypermedia and Systems Architecture](https://www.goodreads.com/review/show/700289704?utm_medium=api&utm_source=rss) by Jim Webber (⭐️3.86)
 - [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.83)
 - [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve  Freeman (⭐️4.18)
 - [xUnit Test Patterns: Refactoring Test Code](https://www.goodreads.com/review/show/725322953?utm_medium=api&utm_source=rss) by Gerard Meszaros (⭐️3.94)
-- [Single Page Apps in Depth](https://www.goodreads.com/review/show/621685839?utm_medium=api&utm_source=rss) by Mikito Takada (⭐️3.14)
-- [Hadoop Operations](https://www.goodreads.com/review/show/445979903?utm_medium=api&utm_source=rss) by Eric Sammer (⭐️3.94)
 - [Programming Interviews Exposed: Secrets to Landing Your Next Job (Programmer to Programmer)](https://www.goodreads.com/review/show/443922912?utm_medium=api&utm_source=rss) by John Mongan (⭐️3.9)
 - [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) by Edd Wilder-James (⭐️4.02)
 <!-- GOODREADS-LIST:END -->
