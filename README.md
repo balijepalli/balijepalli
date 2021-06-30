@@ -9,7 +9,7 @@
       - Cloud & Container technology enthusiast and advocate
       - Passionate about clean code practices
       - Expertise in solution ideation and rapid prototyping
-      - Love Bicycles, Circular Economy, and Gardening
+      - Love Bicycles, Circular Economy, and Green Growth , Gardening
 
 - 📝 You can visit my website on [balijepalli.com](balijepalli.com) to read my blog posts and to learn more about me.
 
