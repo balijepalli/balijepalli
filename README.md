@@ -15,6 +15,14 @@
 
 - 📫 How to reach me at **preetam.balijepalli@gmail.com** and You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
+
+### Experience / Industry
+- Ag Tech (current)
+- BFSI (10+ yr)
+- Mobility (4 yr)
+- Location Intelligence(3+)
+
+
 **What I'm Currently Reading 📕**
 <!-- GOODREADS-LIST:START -->
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.74)
@@ -51,8 +59,7 @@
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=balijepalli&hide_title=true&hide_border=true&langs_count=5)
 
 
-
-<p align="left">
+<p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"/>
@@ -61,17 +68,15 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 </p>
 
-
-
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true
 
-[![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=cobalt)
-](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&exclude_repo=github-readme-stats,balijepalli.github.io)](https://github.com/balijepalli/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&exclude_repo=github-readme-stats,balijepalli.github.io)](https://github.com/balijepalli/github-readme-stats) 
+[![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Links to your social media accounts -->
