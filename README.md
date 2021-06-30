@@ -13,7 +13,7 @@
 
 - 📝 You can visit my website on [balijepalli.com](balijepalli.com) to read my blog posts and to learn more about me.
 
-- 📫 How to reach me at **preetam.balijepalli@gmail.com**
+- 📫 How to reach me at **preetam.balijepalli@gmail.com** and You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 **What I'm Currently Reading 📕**
 <!-- GOODREADS-LIST:START -->
@@ -61,7 +61,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
 </p>
 
-You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 
 <!-- Icons -->
