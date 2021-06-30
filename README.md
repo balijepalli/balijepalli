@@ -36,11 +36,11 @@
 
 **Last 5 📚 I've Read**
 <!-- GOODREADS-READ-LIST:START -->
+- [Data Algorithms: Recipes for Scaling Up with Hadoop and Spark](https://www.goodreads.com/review/show/1662462673?utm_medium=api&utm_source=rss) by Mahmoud Parsian (unrated)
 - [Programming Interviews Exposed: Secrets to Landing Your Next Job (Programmer to Programmer)](https://www.goodreads.com/review/show/443922912?utm_medium=api&utm_source=rss) by John Mongan (unrated)
 - [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) by Edd Wilder-James (unrated)
 - [xUnit Test Patterns: Refactoring Test Code](https://www.goodreads.com/review/show/725322953?utm_medium=api&utm_source=rss) by Gerard Meszaros (unrated)
 - [Single Page Apps in Depth](https://www.goodreads.com/review/show/621685839?utm_medium=api&utm_source=rss) by Mikito Takada (unrated)
-- [REST in Practice: Hypermedia and Systems Architecture](https://www.goodreads.com/review/show/700289704?utm_medium=api&utm_source=rss) by Jim Webber (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
 **Latest Blog Posts** ✏️
