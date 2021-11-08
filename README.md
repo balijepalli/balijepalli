@@ -50,7 +50,7 @@
 
 **StackOverflow**
 <!-- STACKOVERFLOW:START -->
-- [Answer by preetam.balijepalli for AWS Sagemaker ClientError: imread read blank (None) image for file: /opt/ml/input/data/train/image_directory/key_of_first_image.jpg](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
+- [Answer by preetam.balijepalli for AWS Sagemaker ClientError: imread read blank &lpar;None&rpar; image for file: /opt/ml/input/data/train/image_directory/key_of_first_image.jpg](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
 - [Answer by preetam.balijepalli for Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline/47384654#47384654)
 - [Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline)
 <!-- STACKOVERFLOW:END -->
