@@ -26,7 +26,7 @@
 **What I'm Currently Reading 📕**
 <!-- GOODREADS-LIST:START -->
 - [Building Machine Learning Pipelines: Automating Model Life Cycles with Tensorflow](https://www.goodreads.com/review/show/4090293298?utm_medium=api&utm_source=rss) by Hannes Hapke (⭐️3.58)
-- [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.83)
+- [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.84)
 - [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve  Freeman (⭐️4.19)
 - [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.04)
 - [Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples](https://www.goodreads.com/review/show/4107740869?utm_medium=api&utm_source=rss) by Serg Masís (⭐️4.5)
