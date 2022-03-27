@@ -31,7 +31,7 @@
 - [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.04)
 - [Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples](https://www.goodreads.com/review/show/4107740869?utm_medium=api&utm_source=rss) by Serg Masís (⭐️4.5)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.74)
-- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.22)
+- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.21)
 - [Monolith to Microservices: Sustaining Productivity While Detangling the System](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.28)
 <!-- GOODREADS-LIST:END -->
 
