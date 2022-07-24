@@ -33,6 +33,15 @@ Experience
 
 
 ## 🛠 Technology Stack
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
+</p>
+
 *   Java/Scala/Python languages
 *   ReactJS and Admin , Jinja , Angular
 *   Sybase , MySQL, PostgreSQL, MongoDB, Aurora, Redshift, Athena, DynamoDB, Druid, Duckdb, Flyway, Liquibase
@@ -41,6 +50,7 @@ Experience
 *   AWS - (ECS Fargate,EMR, EKS, SNS, SES, Security & Parameters Store, Batch, Lambda, S3, SageMaker(Entire Suite), CloudWatch, SNS, CloudFormation)
 *   Kedro, Airflow
 *   GitHub/GitLab/Gerrit/Bitbucket
+
 
 ### Experience / Industry
 - Augmented Retail Analytics(Currently) 
@@ -86,15 +96,6 @@ Experience
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=balijepalli&hide_title=true&hide_border=true&langs_count=5)
 
-
-<p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
-</p>
 
 <!-- Icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
