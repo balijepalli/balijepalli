@@ -32,8 +32,18 @@ Experience
 - 📫 How to reach me at **preetam.balijepalli@gmail.com** and You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 
+## 🛠 Technology Stack
+*   Java/Scala/Python languages
+*   ReactJS and Admin , Jinja , Angular
+*   Sybase , MySQL, PostgreSQL, MongoDB, Aurora, Redshift, Athena, DynamoDB, Flyway, Liquibase
+*   J2EE , Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Batch, Spring Cloud Contract and so on...
+*   Cloudera, Hortonworks, EMR, MapR
+*   AWS - (ECS Fargate,EMR, EKS , SNS , SES , Security & Parameters Store, Batch, Lambda, S3, SageMaker(Entire Suite), CloudWatch, SNS, CloudFormation)
+*   GitHub/GitLab/Gerrit/Bitbucket
+
 ### Experience / Industry
-- Ag Tech (current)
+- Augmented Retail Analytics(Currently) 
+- Ag Tech (3+ yr)
 - BFSI (10+ yr)
 - Mobility (4 yr)
 - Location Intelligence(3+)
