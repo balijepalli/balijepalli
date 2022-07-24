@@ -35,10 +35,11 @@ Experience
 ## 🛠 Technology Stack
 *   Java/Scala/Python languages
 *   ReactJS and Admin , Jinja , Angular
-*   Sybase , MySQL, PostgreSQL, MongoDB, Aurora, Redshift, Athena, DynamoDB, Flyway, Liquibase
+*   Sybase , MySQL, PostgreSQL, MongoDB, Aurora, Redshift, Athena, DynamoDB, Druid, Duckdb, Flyway, Liquibase
 *   J2EE , Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Batch, Spring Cloud Contract and so on...
 *   Cloudera, Hortonworks, EMR, MapR
-*   AWS - (ECS Fargate,EMR, EKS , SNS , SES , Security & Parameters Store, Batch, Lambda, S3, SageMaker(Entire Suite), CloudWatch, SNS, CloudFormation)
+*   AWS - (ECS Fargate,EMR, EKS, SNS, SES, Security & Parameters Store, Batch, Lambda, S3, SageMaker(Entire Suite), CloudWatch, SNS, CloudFormation)
+*   Kedro, Airflow
 *   GitHub/GitLab/Gerrit/Bitbucket
 
 ### Experience / Industry
