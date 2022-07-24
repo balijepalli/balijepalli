@@ -1,6 +1,22 @@
 <h1 align="center">Hey there 👋, I'm Preetam Balijepalli</h1>
 <h3 align="center">An agile architect on cloud - (n)</h3>
 
+
+Education
+---------
+
+2000-2001
+: **Msc, Computer Science**; Punjab Technical University 
+
+1994-1997
+: **BSc, Computer Science**; Andhra University 
+
+1998-1999
+: **BSc, Sciences**; Andhra University 
+   *Minor & Major: Maths Physics Chemistry*
+
+Experience
+----------
 - 🌱 I’m currently learning **Data and Machine Learning Engineering**
 
 - 👯 I’m looking to collaborate on Data and Digital Engineering For Decision Science
