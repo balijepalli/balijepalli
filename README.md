@@ -67,7 +67,7 @@ Experience
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.73)
 - [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.21)
 - [Monolith to Microservices: Sustaining Productivity While Detangling the System](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.29)
-- [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.08)
+- [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.09)
 - [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.83)
 - [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve  Freeman (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
