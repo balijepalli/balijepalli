@@ -113,6 +113,11 @@ Experience
   />
 </p>
 
+<hr>
+
+<!--START_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@balijepalli/f9ba5cbf-d143-4da6-8d9f-33076d4b167a.svg"></embed></figure>
+<!--END_SECTION:waka-->
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/balijepalli
