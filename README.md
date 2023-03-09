@@ -101,6 +101,17 @@ Experience
 [3.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true
 
 <hr>
+<h2 align="left">🏆 Stats:</h2>
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical&line_height=25"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"
+  />
+</p>
 
 
 <!-- Links to your social media accounts -->
