@@ -116,7 +116,25 @@ Experience
 <hr>
 
 <!--START_SECTION:waka-->
-<figure><embed src="https://wakatime.com/share/@balijepalli/f9ba5cbf-d143-4da6-8d9f-33076d4b167a.svg"></embed></figure>
+
+```text
+From: 22 September 2015 - To: 08 March 2023
+
+Total Time: 510 hrs 9 mins
+
+Python                     232 hrs 55 mins >>>>>>>>>>>--------------   45.66 %
+YAML                       58 hrs 39 mins  >>>----------------------   11.50 %
+Text                       45 hrs 51 mins  >>-----------------------   08.99 %
+Docker                     38 hrs 37 mins  >>-----------------------   07.57 %
+Bash                       32 hrs 4 mins   >>-----------------------   06.29 %
+JSON                       19 hrs 20 mins  >------------------------   03.79 %
+Nginx Configuration        18 hrs 43 mins  >------------------------   03.67 %
+TypeScript                 13 hrs 30 mins  >------------------------   02.65 %
+JavaScript                 6 hrs 2 mins    -------------------------   01.19 %
+INI                        5 hrs 41 mins   -------------------------   01.12 %
+SQL                        4 hrs 45 mins   -------------------------   00.93 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- Links to your social media accounts -->
