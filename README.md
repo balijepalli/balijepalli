@@ -102,9 +102,6 @@ Experience
 
 <hr>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&exclude_repo=github-readme-stats,balijepalli.github.io)](https://github.com/balijepalli/github-readme-stats) 
-[![Balijepalli's GitHub stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/balijepalli
