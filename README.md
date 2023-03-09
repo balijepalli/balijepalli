@@ -92,9 +92,7 @@ Experience
 - [Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline)
 <!-- STACKOVERFLOW:END -->
 
-📊 **This week I spent my time on**
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=balijepalli&hide_title=true&hide_border=true&langs_count=5)
 
 
 <!-- Icons -->
