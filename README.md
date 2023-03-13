@@ -81,7 +81,7 @@ Experience
 - [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) by Edd Wilder-James (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
-**Latest Blog Posts** ✏️
+#### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
