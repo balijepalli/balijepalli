@@ -120,7 +120,7 @@ Experience
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2015 - To: 03 May 2023
+From: 22 September 2015 - To: 04 May 2023
 
 Total Time: 539 hrs 41 mins
 
@@ -134,7 +134,6 @@ Nginx Configuration        18 hrs 57 mins  >------------------------   03.51 %
 TypeScript                 18 hrs 24 mins  >------------------------   03.41 %
 JavaScript                 6 hrs 6 mins    -------------------------   01.13 %
 INI                        5 hrs 41 mins   -------------------------   01.06 %
-SQL                        4 hrs 45 mins   -------------------------   00.88 %
 ```
 
 <!--END_SECTION:waka-->
