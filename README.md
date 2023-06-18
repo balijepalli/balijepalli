@@ -120,7 +120,7 @@ Experience
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2015 - To: 15 June 2023
+From: 22 September 2015 - To: 16 June 2023
 
 Total Time: 539 hrs 41 mins
 
