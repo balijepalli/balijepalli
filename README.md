@@ -65,7 +65,7 @@ Experience
 - [Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples](https://www.goodreads.com/review/show/4107740869?utm_medium=api&utm_source=rss) by Serg Masís (⭐️4.45)
 - [Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow](https://www.goodreads.com/review/show/4090293298?utm_medium=api&utm_source=rss) by Hannes Hapke (⭐️3.46)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.73)
-- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.17)
+- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.18)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.27)
 - [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.07)
 - [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.82)
