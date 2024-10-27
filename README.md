@@ -4,6 +4,8 @@
 
 Education
 ---------
+2023-2025
+: **MTech, AI&ML**; Birla Institute of Technology ,Pilani 
 
 2000-2001
 : **Msc, Computer Science**; Punjab Technical University 
