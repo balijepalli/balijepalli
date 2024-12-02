@@ -71,7 +71,7 @@ Experience
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.28)
 - [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.07)
 - [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.82)
-- [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve  Freeman (⭐️4.19)
+- [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve Freeman (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
 
 **Last 5 📚 I've Read**
