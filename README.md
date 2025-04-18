@@ -37,41 +37,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
 </p>
 
-**Languages:**  
-Java (Spring ecosystem), Scala (Big Data), Python (ML, scripting)
+### 🔧 Technical Summary
 
-**Frontend & Templating:**  
-React, Angular, Jinja2, Admin Dashboards
+| Category                | Tools & Technologies                                                                 |
+|------------------------|---------------------------------------------------------------------------------------|
+| **Languages**           | Java (Spring), Scala (Big Data), Python (ML, scripting)                              |
+| **Frontend & Templating** | React, Angular, Jinja2, Admin Dashboards                                             |
+| **APIs & Eventing**     | GraphQL (Hasura), REST APIs, Webhooks, Kafka, SNS, SQS                               |
+| **Databases & Storage** | MySQL, PostgreSQL, MongoDB, Sybase, Aurora, Redshift, Athena, DynamoDB, DuckDB, Druid, S3 |
+| **Frameworks & Patterns** | Spring Boot, Spring Cloud, Spring Batch, Liquibase, Flyway, CQRS, Event Sourcing     |
+| **Cloud & Infra**       | AWS (EKS, ECS Fargate, EMR, Lambda, S3, SageMaker, CloudWatch, CloudFormation, etc.), IaC (Terraform, CDK), DevOps |
+| **Data & ML Pipelines** | Kedro, Apache Airflow, Spark (EMR), MLflow, Cloudera, Hortonworks, Data Mesh         |
+| **Model Serving**       | Seldon Core, KFServing, BentoML, SageMaker Inference, REST/gRPC, multi-model endpoints |
+| **Version Control & CI/CD** | GitHub, GitLab, Bitbucket, Gerrit, CI/CD with model testing and deployment       |
 
-**APIs & Eventing:**  
-GraphQL (Hasura), RESTful APIs, Webhooks  
-Event-driven design using Kafka, SNS, SQS
-
-**Databases & Storage:**  
-MySQL, PostgreSQL, MongoDB, Sybase  
-Aurora, Redshift, Athena, DynamoDB, DuckDB  
-Druid (OLAP analytics), S3 (Data Lake)
-
-**Frameworks & Libraries:**  
-Spring Boot, Spring Cloud, Spring Batch  
-Liquibase, Flyway (Schema Versioning)  
-CQRS, Event Sourcing patterns
-
-**Cloud & Infrastructure:**  
-AWS (EKS, ECS Fargate, EMR, Lambda, S3, SageMaker, CloudWatch, CloudFormation, SNS, SES)  
-Cloud-native design, IaC (CDK, Terraform), DevOps automation
-
-**Data Engineering & ML Pipelines:**  
-Kedro, Apache Airflow, Spark (on EMR), MLflow  
-Cloudera, Hortonworks, Data Mesh frameworks
-
-**ML Deployment & Serving:**  
-Seldon Core, KFServing, BentoML, SageMaker Inference  
-Scalable REST/GRPC-based model serving, multi-model endpoints
-
-**Version Control & CI/CD:**  
-GitHub, GitLab, Bitbucket, Gerrit  
-CI/CD integrated with model testing & deployment
 
 ---
 
