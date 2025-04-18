@@ -1,126 +1,107 @@
-<h1 align="center">Hey there 👋, I'm Preetam Balijepalli</h1>
-<h3 align="center">An agile architect on cloud - (n)</h3>
+<h1 align="center">👋 Hi, I'm Preetam Balijepalli</h1>
+<h3 align="center">👨‍💻 Curiosity of a Software Craftsman | Microservices, Cloud-Native & Scalable Data/ML Architectures</h3>
 
+---
 
-Education
----------
-2023-2025
-: **MTech, AI & ML**; Birla Institute of Technology ,Pilani 
+## 🎓 Education
 
-2000-2001
-: **Msc, Information Technology**; Punjab Technical University 
+- **M.Tech, AI & ML** — BITS Pilani (2023–2025)  
+- **M.Sc, Information Technology** — PTU (2000–2001)  
+- **B.Sc, Computer Science** — Andhra University (1994–1997)  
+- **B.Sc, Sciences (Maths, Physics, Chemistry)** — Andhra University (1998–1999)
 
-1994-1997
-: **BSc, Computer Science**; Andhra University 
+---
 
-1998-1999
-: **BSc, Sciences**; Andhra University 
-   *Minor & Major: Maths Physics Chemistry*
+## 🧑‍💻 About Me
 
-Experience
-----------
-- 🌱 I’m currently learning **Data and Machine Learning Engineering**
+- 🌱 Currently deepening expertise in **data and machine learning engineering**
+- 👯 Open to collaborations in **Digital Engineering** and **Decision Intelligence**
+- 🧠 Enjoy working as a polyglot developer across **Java, Scala, and Python**
+- ☁️ Enthusiast of cloud, containers, and secure architectures
+- ✨ Passionate about clean code, rapid prototyping, and scalable systems
+- 🌿 Advocate of **green growth**, bicycles, and mindful living
 
-- 👯 I’m looking to collaborate on Data and Digital Engineering For Decision Science
+📬 Reach me at: [preetam.balijepalli@gmail.com](mailto:preetam.balijepalli@gmail.com)  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/preetambalijepalli) or visit [balijepalli.com](https://www.balijepalli.com)
 
-      - Polyglot developer mainly working with Java, Scala and Python
-      - Cloud & Container technology enthusiast and advocate
-      - Passionate about clean code practices
-      - Expertise in solution ideation and rapid prototyping
-      - Love Bicycles, Circular Economy, and Green Growth , Gardening
+---
 
-- 📝 You can visit my website on [balijepalli.com](balijepalli.com) to read my blog posts and to learn more about me.
+## 🛠️ Technology Stack
 
-- 📫 How to reach me at **preetam.balijepalli@gmail.com** and You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
-
-
-## 🛠 Technology Stack
 <p align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" alt="scala" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
 </p>
 
-*   Java/Scala/Python languages
-*   ReactJS and Admin , Jinja , Angular
-*   Sybase , MySQL, PostgreSQL, MongoDB, Aurora, Redshift, Athena, DynamoDB, Druid, Duckdb, Flyway, Liquibase
-*   J2EE , Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Batch, Spring Cloud Contract and so on...
-*   Cloudera, Hortonworks, EMR, MapR
-*   AWS - (ECS Fargate,EMR, EKS, SNS, SES, Security & Parameters Store, Batch, Lambda, S3, SageMaker(Entire Suite), CloudWatch, SNS, CloudFormation)
-*   Kedro, Airflow
-*   GitHub/GitLab/Gerrit/Bitbucket
+**Languages:** Java, Scala, Python  
+**Frontend:** React, Angular, Jinja, Admin Templates  
+**Databases:** MySQL, PostgreSQL, MongoDB, Sybase, Aurora, Redshift, Athena, Druid, DynamoDB, DuckDB  
+**Frameworks:** Spring Boot, Spring Cloud, Spring Batch, Liquibase, Flyway  
+**Cloud & Infra:** AWS (Fargate, EKS, EMR, SageMaker, Lambda, S3, CloudWatch, etc.)  
+**Data & ML:** Kedro, Airflow, EMR, Cloudera, Hortonworks  
+**Version Control:** GitHub, GitLab, Bitbucket, Gerrit  
 
+---
 
-### Experience / Industry
-- Augmented Retail Analytics(Currently) 
-- Ag Tech (3+ yr)
-- BFSI (10+ yr)
-- Mobility (4 yr)
-- Location Intelligence(3+)
+## 🌍 Domains & Experience
 
+- 🔍 Data & ML in Augmented Retail Analytics  
+- 🌾 Agri-Tech & Yield Prediction (3+ yrs)  
+- 🏦 BFSI – Risk, Fraud, Lending (10+ yrs)  
+- 🚦 Urban Mobility Platforms (4 yrs)  
+- 🗺️ Geospatial & Location Intelligence (3+ yrs)
 
-**What I'm Currently Reading 📕**
+---
+
+## 📕 Currently Reading
+
 <!-- GOODREADS-LIST:START -->
-- [Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples](https://www.goodreads.com/review/show/4107740869?utm_medium=api&utm_source=rss) by Serg Masís (⭐️4.33)
-- [Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow](https://www.goodreads.com/review/show/4090293298?utm_medium=api&utm_source=rss) by Hannes Hapke (⭐️3.5)
-- [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.72)
-- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.23)
-- [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.28)
-- [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.07)
-- [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.81)
-- [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve Freeman (⭐️4.19)
+<!-- Your Goodreads list will update here automatically -->
 <!-- GOODREADS-LIST:END -->
 
-**Last 5 📚 I've Read**
+---
+
+## 📚 Last 5 Read
+
 <!-- GOODREADS-READ-LIST:START -->
-- [AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt](https://www.goodreads.com/review/show/4107734458?utm_medium=api&utm_source=rss) by Somanath Nanda (⭐⭐⭐⭐)
-- [Mastering Machine Learning on AWS: Advanced machine learning in Python using SageMaker, Apache Spark, and TensorFlow](https://www.goodreads.com/review/show/4107738196?utm_medium=api&utm_source=rss) by Saket Mengle (⭐⭐⭐⭐)
-- [Data Algorithms: Recipes for Scaling Up with Hadoop and Spark](https://www.goodreads.com/review/show/1662462673?utm_medium=api&utm_source=rss) by Mahmoud Parsian (unrated)
-- [Programming Interviews Exposed: Secrets to Landing Your Next Job (Programmer to Programmer)](https://www.goodreads.com/review/show/443922912?utm_medium=api&utm_source=rss) by John Mongan (unrated)
-- [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) by Edd Wilder-James (unrated)
+<!-- Last 5 books you've read -->
 <!-- GOODREADS-READ-LIST:END -->
 
-#### 📝 Latest Blog Posts
+---
+
+## 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
+<!-- Blog list will appear here -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-<hr>
-
-#### StackOverflow
+## 💬 Stack Overflow Contributions
 
 <!-- STACKOVERFLOW:START -->
-- [Answer by Preetam Balijepalli for AWS Sagemaker ClientError: imread read blank &lpar;None&rpar; image for file: /opt/ml/input/data/train/image_directory/key_of_first_image.jpg](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
-- [Answer by Preetam Balijepalli for Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline/47384654#47384654)
-- [Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline)
+- [Answer: AWS Sagemaker ClientError - imread read blank image](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
+- [Answer: Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline/47384654#47384654)
 <!-- STACKOVERFLOW:END -->
 
+---
 
-<!-- Icons -->
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[3.2]: https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true
+## 📈 GitHub Stats
 
-<hr>
-<h2 align="left">🏆 Stats:</h2>
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical&line_height=25"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"
-  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&theme=radical" />
 </p>
 
-<hr>
+---
+
+## 🕒 Code Time (via WakaTime)
 
 <!--START_SECTION:waka-->
-
 ```txt
 From: 22 September 2015 - To: 25 October 2024
 
@@ -131,16 +112,3 @@ YAML                       58 hrs 40 mins  >>>----------------------   10.87 %
 Text                       49 hrs 3 mins   >>-----------------------   09.09 %
 Docker                     39 hrs 5 mins   >>-----------------------   07.24 %
 Bash                       32 hrs 7 mins   >------------------------   05.95 %
-JSON                       19 hrs 33 mins  >------------------------   03.62 %
-Nginx Configuration        18 hrs 57 mins  >------------------------   03.51 %
-TypeScript                 18 hrs 24 mins  >------------------------   03.41 %
-JavaScript                 6 hrs 6 mins    -------------------------   01.13 %
-INI                        5 hrs 41 mins   -------------------------   01.06 %
-```
-
-<!--END_SECTION:waka-->
-
-<!-- Links to your social media accounts -->
-[1]: https://twitter.com/balijepalli
-[2]: https://www.linkedin.com/in/preetambalijepalli/
-[3]: **preetam.balijepalli@gmail.com**
