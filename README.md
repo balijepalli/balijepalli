@@ -64,28 +64,32 @@
 
 ---
 
-## 📓 Currently Reading
-<!-- GOODREADS-LIST:START -->
-- [Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples](https://www.goodreads.com/review/show/4107740869?utm_medium=api&utm_source=rss) by Serg Masís (⭐️4.33)
-- [Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow](https://www.goodreads.com/review/show/4090293298?utm_medium=api&utm_source=rss) by Hannes Hapke (⭐️3.49)
-- [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567?utm_medium=api&utm_source=rss) by Martin Kleppmann (⭐️4.72)
-- [Building Machine Learning Powered Applications: Going from Idea to Product](https://www.goodreads.com/review/show/4082800090?utm_medium=api&utm_source=rss) by Emmanuel Ameisen (⭐️4.22)
-- [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith](https://www.goodreads.com/review/show/4082788557?utm_medium=api&utm_source=rss) by Sam Newman (⭐️4.27)
-- [Agile Data Warehouse Design: Collaborative Dimensional Modeling, from Whiteboard to Star Schema](https://www.goodreads.com/review/show/1467445940?utm_medium=api&utm_source=rss) by Lawrence Corr (⭐️4.06)
-- [Agile Testing: A Practical Guide for Testers and Agile Teams](https://www.goodreads.com/review/show/725323085?utm_medium=api&utm_source=rss) by Lisa Crispin (⭐️3.81)
-- [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve Freeman (⭐️4.19)
-<!-- GOODREADS-LIST:END -->
+## 📘 Reading & Learning
 
----
+<details>
+<summary><strong>📖 Currently Reading</strong></summary>
 
-## 📘 Recently Read
-<!-- GOODREADS-READ-LIST:START -->
-- [AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt](https://www.goodreads.com/review/show/4107734458?utm_medium=api&utm_source=rss) by Somanath Nanda (⭐⭐⭐⭐)
-- [Mastering Machine Learning on AWS: Advanced machine learning in Python using SageMaker, Apache Spark, and TensorFlow](https://www.goodreads.com/review/show/4107738196?utm_medium=api&utm_source=rss) by Saket Mengle (⭐⭐⭐⭐)
-- [Data Algorithms: Recipes for Scaling Up with Hadoop and Spark](https://www.goodreads.com/review/show/1662462673?utm_medium=api&utm_source=rss) by Mahmoud Parsian (unrated)
-- [Programming Interviews Exposed: Secrets to Landing Your Next Job (Programmer to Programmer)](https://www.goodreads.com/review/show/443922912?utm_medium=api&utm_source=rss) by John Mongan (unrated)
-- [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) by Edd Wilder-James (unrated)
-<!-- GOODREADS-READ-LIST:END -->
+- [Interpretable Machine Learning with Python](https://www.goodreads.com/review/show/4107740869) — Serg Masís  
+- [Building ML Pipelines](https://www.goodreads.com/review/show/4090293298) — Hannes Hapke  
+- [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567) — Martin Kleppmann  
+- [ML Powered Applications](https://www.goodreads.com/review/show/4082800090) — Emmanuel Ameisen  
+- [Monolith to Microservices](https://www.goodreads.com/review/show/4082788557) — Sam Newman  
+- [Agile Data Warehouse Design](https://www.goodreads.com/review/show/1467445940) — Lawrence Corr  
+- [Agile Testing](https://www.goodreads.com/review/show/725323085) — Lisa Crispin  
+- [Growing OO Software, Guided by Tests](https://www.goodreads.com/review/show/725322992) — Steve Freeman  
+
+</details>
+
+<details>
+<summary><strong>📗 Recently Read</strong></summary>
+
+- [AWS ML Specialty Guide](https://www.goodreads.com/review/show/4107734458) — Somanath Nanda  
+- [Mastering ML on AWS](https://www.goodreads.com/review/show/4107738196) — Saket Mengle  
+- [Data Algorithms](https://www.goodreads.com/review/show/1662462673) — Mahmoud Parsian  
+- [Programming Interviews Exposed](https://www.goodreads.com/review/show/443922912) — John Mongan  
+- [Planning for Big Data](https://www.goodreads.com/review/show/440025029) — Edd Wilder-James  
+
+</details>
 
 ---
 
@@ -95,16 +99,8 @@
 
 ---
 
-## 💬 Stack Overflow Contributions
-<!-- STACKOVERFLOW:START -->
-- [Answer by Preetam Balijepalli for AWS Sagemaker ClientError: imread read blank &lpar;None&rpar; image for file: /opt/ml/input/data/train/image_directory/key_of_first_image.jpg](https://stackoverflow.com/questions/58992679/aws-sagemaker-clienterror-imread-read-blank-none-image-for-file-opt-ml-inpu/63672364#63672364)
-- [Answer by Preetam Balijepalli for Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline/47384654#47384654)
-- [Hadoop User Classpath - Beeline](https://stackoverflow.com/questions/47351067/hadoop-user-classpath-beeline)
-<!-- STACKOVERFLOW:END -->
-
----
-
 ## 📊 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&theme=radical" />
@@ -113,6 +109,7 @@
 ---
 
 ## ⌚ Code Activity (via WakaTime)
+
 <!--START_SECTION:waka-->
 ```txt
 From: 22 September 2015 - To: 25 October 2024
@@ -124,5 +121,3 @@ YAML                       58 hrs 40 mins  >>>----------------------   10.87 %
 Text                       49 hrs 3 mins   >>-----------------------   09.09 %
 Docker                     39 hrs 5 mins   >>-----------------------   07.24 %
 Bash                       32 hrs 7 mins   >------------------------   05.95 %
-```
-<!--END_SECTION:waka-->
