@@ -69,27 +69,19 @@
 <details>
 <summary><strong>📖 Currently Reading</strong></summary>
 
-- [Interpretable Machine Learning with Python](https://www.goodreads.com/review/show/4107740869) — Serg Masís  
-- [Building ML Pipelines](https://www.goodreads.com/review/show/4090293298) — Hannes Hapke  
-- [Designing Data-Intensive Applications](https://www.goodreads.com/review/show/4082824567) — Martin Kleppmann  
-- [ML Powered Applications](https://www.goodreads.com/review/show/4082800090) — Emmanuel Ameisen  
-- [Monolith to Microservices](https://www.goodreads.com/review/show/4082788557) — Sam Newman  
-- [Agile Data Warehouse Design](https://www.goodreads.com/review/show/1467445940) — Lawrence Corr  
-- [Agile Testing](https://www.goodreads.com/review/show/725323085) — Lisa Crispin  
-- [Growing OO Software, Guided by Tests](https://www.goodreads.com/review/show/725322992) — Steve Freeman  
+<!--START_SECTION:GOODREADS-LIST-->
+<!--END_SECTION:GOODREADS-LIST-->
 
 </details>
 
 <details>
 <summary><strong>📗 Recently Read</strong></summary>
 
-- [AWS ML Specialty Guide](https://www.goodreads.com/review/show/4107734458) — Somanath Nanda  
-- [Mastering ML on AWS](https://www.goodreads.com/review/show/4107738196) — Saket Mengle  
-- [Data Algorithms](https://www.goodreads.com/review/show/1662462673) — Mahmoud Parsian  
-- [Programming Interviews Exposed](https://www.goodreads.com/review/show/443922912) — John Mongan  
-- [Planning for Big Data](https://www.goodreads.com/review/show/440025029) — Edd Wilder-James  
+<!--START_SECTION:GOODREADS-READ-LIST-->
+<!--END_SECTION:GOODREADS-READ-LIST-->
 
 </details>
+
 
 ---
 
