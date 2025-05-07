@@ -1,4 +1,5 @@
 name: Latest book list from Goodreads
+
 on:
   schedule:
     # Run workflow automatically every hour
@@ -7,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-goodreads-books:
+  update-currently-reading:
     name: Update README with currently reading books
     runs-on: ubuntu-latest
     steps:
@@ -17,7 +18,7 @@ jobs:
           goodreads_user_id: "13525552"
           shelf: "currently-reading"
 
-  update-readme-with-goodreads-books-read:
+  update-recently-read:
     name: Update README with last 5 read books
     runs-on: ubuntu-latest
     steps:
@@ -28,4 +29,4 @@ jobs:
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
           max_books_count: "5"
-          template: "- [$title]($url) by $author ($my_rating_stars)"
+          template: "- [$title]($url) — $author ($my_rating_stars)"
