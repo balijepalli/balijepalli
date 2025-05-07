@@ -110,5 +110,5 @@
 
 ## ⌚ Code Activity (via WakaTime)
 
-<!--START_SECTION:waka-stats-->
-<!--END_SECTION:waka-stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
