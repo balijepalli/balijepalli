@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Preetam Balijepalli</h1>
-<h3 align="center">👨‍💻 Software Craftsman | Architecting Microservices, Cloud-Native & Scalable Data/ML Systems</h3>
+<h3 align="center">👨‍💻 Software Craftsman | Engineering Scalable Microservices, Cloud Platforms & Data/ML Systems</h3>
 
 ---
 
