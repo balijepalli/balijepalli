@@ -1,17 +1,16 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # Manual trigger
   schedule:
-    - cron: '0 0 * * *' # Runs daily at 12am UTC
+    - cron: '0 0 * * *'  # Runs daily at 12am UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: Update WakaTime stats
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -20,6 +19,5 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
           SHOW_TOTAL: true
+          SECTION_NAME: waka-stats
           COMMIT_MESSAGE: "Updated WakaTime coding stats"
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: "waka-stats"
