@@ -69,18 +69,19 @@
 <details>
 <summary><strong>📖 Currently Reading</strong></summary>
 
-<!--START_SECTION:GOODREADS-LIST-->
-<!--END_SECTION:GOODREADS-LIST-->
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 </details>
 
 <details>
 <summary><strong>📗 Recently Read</strong></summary>
 
-<!--START_SECTION:GOODREADS-READ-LIST-->
-<!--END_SECTION:GOODREADS-READ-LIST-->
+<!-- GOODREADS-READ-LIST:START -->
+<!-- GOODREADS-READ-LIST:END -->
 
 </details>
+
 
 
 ---
