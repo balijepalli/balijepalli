@@ -86,6 +86,11 @@
 <summary><strong>📗 Recently Read</strong></summary>
 
 <!-- GOODREADS-READ-LIST:START -->
+- [AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt](https://www.goodreads.com/review/show/4107734458?utm_medium=api&utm_source=rss) — Somanath Nanda (⭐⭐⭐⭐)
+- [Mastering Machine Learning on AWS: Advanced machine learning in Python using SageMaker, Apache Spark, and TensorFlow](https://www.goodreads.com/review/show/4107738196?utm_medium=api&utm_source=rss) — Saket Mengle (⭐⭐⭐⭐)
+- [Data Algorithms: Recipes for Scaling Up with Hadoop and Spark](https://www.goodreads.com/review/show/1662462673?utm_medium=api&utm_source=rss) — Mahmoud Parsian (unrated)
+- [Programming Interviews Exposed: Secrets to Landing Your Next Job (Programmer to Programmer)](https://www.goodreads.com/review/show/443922912?utm_medium=api&utm_source=rss) — John Mongan (unrated)
+- [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) — Edd Wilder-James (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
 </details>
