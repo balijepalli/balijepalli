@@ -1,60 +1,47 @@
-<h1 align="center">👋 Hi, I'm Preetam Balijepalli</h1>
-<h3 align="center">👨‍💻 Software Craftsman | Engineering Scalable Microservices, Cloud Platforms & Data/ML Systems</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Preetam Balijepalli</h1>
+  <p><strong>Software Craftsman | Engineering Scalable Microservices, Cloud Platforms & Data/ML Systems</strong></p>
+
+  <p>
+    <a href="https://balijepalli.com"><img src="https://img.shields.io/badge/Website-balijepalli.com-blue?style=flat-square&logo=google-chrome"></a>
+    <a href="https://www.linkedin.com/in/preetambalijepalli"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:preetam.balijepalli@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail"></a>
+  </p>
+</div>
 
 ---
 
-## 🎓 Education
+### 🧑‍💻 About Me
+
+- 🌱 Learning deeper concepts in **Data Engineering**, **ML Pipelines**, and **Scalable Systems**.
+- 👯 Interested in collaborations across **Digital Engineering**, **Geospatial AI**, and **Decision Intelligence**.
+- 🧠 Polyglot developer working across **Java**, **Scala**, and **Python**.
+- ☁️ Advocate for **Cloud-Native Architecture**, Containers, and Secure Engineering.
+- 🧪 Passionate about clean code, rapid prototyping, and microservice design.
+- 🚴 Enjoy cycling, minimalism, green growth, and nature-connected living.
+
+---
+
+### 🎓 Education
 
 - **M.Tech, AI & ML** — BITS Pilani (2023–2025)  
 - **M.Sc, Information Technology** — Punjab Technical University (2000–2001)  
 - **B.Sc, Computer Science** — Andhra University (1994–1997)  
-- **B.Sc, Sciences (Maths, Physics, Chemistry)** — Andhra University (1998–1999)
 
 ---
 
-## 🧑‍💻 About Me
+### 🛠️ Technology Stack
 
-- 🌱 Learning deeper concepts in **data engineering**, **ML pipelines**, and **scalable systems**
-- 👯 Interested in collaborations across **Digital Engineering**, **Geospatial AI**, and **Decision Intelligence**
-- 🧠 Polyglot developer working across **Java**, **Scala**, and **Python**
-- ☁️ Advocate for **cloud-native architecture**, containers, and secure engineering
-- 🧪 Passionate about clean code, rapid prototyping, and microservice design
-- 🚴 Enjoy cycling, minimalism, green growth, and nature-connected living
-
-📬 Reach me at [preetam.balijepalli@gmail.com](mailto:preetam.balijepalli@gmail.com)  
-🔗 Connect on [LinkedIn](https://www.linkedin.com/in/preetambalijepalli)  
-🌐 Visit [balijepalli.com](https://www.balijepalli.com)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
+| **Data & ML** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
 
 ---
 
-## 🛠️ Technology Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
-</p>
-
-### 🔧 Technical Summary
-
-| Category                  | Tools & Technologies                                                                 |
-|--------------------------|---------------------------------------------------------------------------------------|
-| **Languages**            | Java (Spring), Scala (Big Data), Python (ML/Scripting)                               |
-| **Frontend**             | React, Angular, Jinja2, Admin Dashboards                                              |
-| **APIs & Eventing**      | GraphQL (Hasura), REST APIs, Webhooks, Kafka, SNS, SQS                               |
-| **Databases & Storage**  | MySQL, PostgreSQL, MongoDB, Sybase, Aurora, Redshift, Athena, DynamoDB, DuckDB, Druid, S3 |
-| **Frameworks & Patterns**| Spring Boot, Spring Cloud, Spring Batch, Liquibase, Flyway, CQRS, Event Sourcing     |
-| **Cloud & Infrastructure**| AWS (EKS, Fargate, EMR, Lambda, SageMaker, CloudWatch, SES, CloudFormation), IaC (Terraform/CDK), DevOps |
-| **Data & ML Pipelines**  | Kedro, Airflow, Spark (EMR), MLflow, Cloudera, Hortonworks, Data Mesh                |
-| **Model Serving**        | Seldon Core, KFServing, BentoML, SageMaker Inference, REST/gRPC endpoints            |
-| **CI/CD & VCS**          | GitHub, GitLab, Bitbucket, Gerrit; CI/CD pipelines with model testing & deployment   |
-
----
-
-## 🌍 Domains & Experience
+### 🌍 Domains & Experience
 
 - 🍽️ **Retail AI** — Demand prediction & inventory analytics  
 - 🌾 **AgriTech** — Yield optimization, remote sensing (3+ yrs)  
@@ -64,10 +51,11 @@
 
 ---
 
-## 📘 Reading & Learning
+### 📘 Reading & Learning
 
 <details>
 <summary><strong>📖 Currently Reading</strong></summary>
+
 
 
 <!-- GOODREADS-LIST:START -->
@@ -101,7 +89,7 @@
 
 ---
 
-## ✍️ Latest Blog Posts
+### ✍️ Latest Blog Posts
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -112,16 +100,18 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
 
-## ⌚ Code Activity (via WakaTime)
+### ⌚ Code Activity
 
 
 <!--START_SECTION:waka-->
