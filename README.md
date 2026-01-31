@@ -1,22 +1,11 @@
 <div align="center">
-  <img src="assets/banner.png" width="100%" alt="Preetam Balijepalli Banner" />
-</div>
+  <h1>👋 Preetam Balijepalli</h1>
+  <p><strong>Software Craftsman | Engineering Scalable Microservices, Cloud Platforms & Data/ML Systems</strong></p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balijepalli&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Preetam+Balijepalli;Software+Craftsman;AI+%2F+ML+Engineer;Cloud+Platform+Architect" alt="Typing SVG" />
-    </a>
-  </h1>
-  
   <p>
-    <a href="https://balijepalli.com"><img src="https://img.shields.io/badge/Website-balijepalli.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/preetambalijepalli"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:preetam.balijepalli@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://balijepalli.com"><img src="https://img.shields.io/badge/Website-balijepalli.com-blue?style=flat-square&logo=google-chrome"></a>
+    <a href="https://www.linkedin.com/in/preetambalijepalli"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+    <a href="mailto:preetam.balijepalli@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=flat-square&logo=gmail"></a>
   </p>
 </div>
 
@@ -42,13 +31,6 @@
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
 | **Data & ML** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
 
-
----
-
-<div align="center">
-  <h3>🐍 Contribution Activity</h3>
-  <img src="https://raw.githubusercontent.com/balijepalli/balijepalli/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
-</div>
 
 ---
 
