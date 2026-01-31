@@ -42,19 +42,11 @@
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
 | **Data & ML** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
 
+
 ---
 
-### 📊 GitHub Stats & Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
-<div align="center">
-  <br/>
+  <h3>🐍 Contribution Activity</h3>
   <img src="https://raw.githubusercontent.com/balijepalli/balijepalli/output/github-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </div>
 
