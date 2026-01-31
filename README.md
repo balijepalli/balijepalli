@@ -69,6 +69,7 @@
 <details>
 <summary><strong>📖 Currently Reading</strong></summary>
 
+
 <!-- GOODREADS-LIST:START -->
 - [Interpretable Machine Learning with Python: Learn to build interpretable high-performance models with hands-on real-world examples](https://www.goodreads.com/review/show/4107740869?utm_medium=api&utm_source=rss) by Serg Masís (⭐️4.33)
 - [Building Machine Learning Pipelines: Automating Model Life Cycles with TensorFlow](https://www.goodreads.com/review/show/4090293298?utm_medium=api&utm_source=rss) by Hannes Hapke (⭐️3.49)
@@ -80,10 +81,12 @@
 - [Growing Object-Oriented Software, Guided by Tests](https://www.goodreads.com/review/show/725322992?utm_medium=api&utm_source=rss) by Steve Freeman (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
 
+
 </details>
 
 <details>
 <summary><strong>📗 Recently Read</strong></summary>
+
 
 <!-- GOODREADS-READ-LIST:START -->
 - [AWS Certified Machine Learning Specialty: MLS-C01 Certification Guide: The definitive guide to passing the MLS-C01 exam on the very first attempt](https://www.goodreads.com/review/show/4107734458?utm_medium=api&utm_source=rss) — Somanath Nanda (⭐⭐⭐⭐)
@@ -93,13 +96,19 @@
 - [Planning for Big Data: A CIO's Handbook to the Changing Data Landscape](https://www.goodreads.com/review/show/440025029?utm_medium=api&utm_source=rss) — Edd Wilder-James (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
+
 </details>
 
 ---
 
 ## ✍️ Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Enterprise Integration Architecture: EAI vs ESB vs SOA - a Modern Perspective](http://balijepalli.com/2025/04/21/eai-vs-esb-vs-soa/) - Apr 21, 2025- [Nine Things Successful People Do Differently](http://balijepalli.com/2011/06/07/nine-things-successful-people-do-differently-heidi-grant-halvorson-the-conversation-harvard-business-review/) - Jun 7, 2011<!-- BLOG-POST-LIST:END -->
+
+<!-- BLOG-POST-LIST:START -->
+- [Enterprise Integration Architecture: EAI vs ESB vs SOA - a Modern Perspective](http://balijepalli.com/2025/04/21/eai-vs-esb-vs-soa/) - Apr 21, 2025
+- [Nine Things Successful People Do Differently](http://balijepalli.com/2011/06/07/nine-things-successful-people-do-differently-heidi-grant-halvorson-the-conversation-harvard-business-review/) - Jun 7, 2011
+<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
@@ -113,6 +122,7 @@
 ---
 
 ## ⌚ Code Activity (via WakaTime)
+
 
 <!--START_SECTION:waka-->
 
@@ -134,3 +144,4 @@ JavaScript                 24 hrs 59 mins  ▓░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+

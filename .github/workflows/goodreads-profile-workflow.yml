@@ -2,28 +2,30 @@ name: Latest book list from Goodreads
 
 on:
   schedule:
-    # Run workflow automatically every hour
-    - cron: '0 * * * *'
+    # Run workflow automatically every hour at 15 mins past
+    - cron: '15 * * * *'
   # Allow manual workflow runs
   workflow_dispatch:
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  update-currently-reading:
-    name: Update README with currently reading books
+  update-goodreads:
+    name: Update README with Goodreads books
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
+      - uses: actions/checkout@v4
+      - name: Update currently reading
+        uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "13525552"
           shelf: "currently-reading"
-
-  update-recently-read:
-    name: Update README with last 5 read books
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: zwacky/goodreads-profile-workflow@main
+      - name: Update recently read
+        uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "13525552"
           shelf: "read"
