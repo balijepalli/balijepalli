@@ -79,10 +79,7 @@
 
  ### ✍️ Latest Blog Posts
 
- <!-- BLOG-POST-LIST:START -->
-- [Enterprise Integration Architecture: EAI vs ESB vs SOA - a Modern Perspective](http://balijepalli.com/2025/04/21/eai-vs-esb-vs-soa/) - Apr 21, 2025
-- [Nine Things Successful People Do Differently](http://balijepalli.com/2011/06/07/nine-things-successful-people-do-differently-heidi-grant-halvorson-the-conversation-harvard-business-review/) - Jun 7, 2011
- <!-- BLOG-POST-LIST:END -->
+ <!-- BLOG-POST-LIST:START -->- [Enterprise Integration Architecture: EAI vs ESB vs SOA - a Modern Perspective](http://balijepalli.com/2025/04/21/eai-vs-esb-vs-soa/) - Apr 21, 2025- [Nine Things Successful People Do Differently](http://balijepalli.com/2011/06/07/nine-things-successful-people-do-differently-heidi-grant-halvorson-the-conversation-harvard-business-review/) - Jun 7, 2011<!-- BLOG-POST-LIST:END -->
 
 ---
 
