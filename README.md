@@ -23,15 +23,6 @@
 ---
 
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=balijepalli&theme=radical&column=7&no-bg=true&no-frame=true" alt="trophies" />
-</div>
-
-| GitHub Stats | Top Languages |
-| :---: | :---: |
-| [![Preetam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-
----
 
 
 ### 🛠️ Technology Stack
@@ -104,10 +95,6 @@
 ---
 
 ### ⌚ Code Activity
-
-<div align="center">
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balijepalli&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 
 
 <!--START_SECTION:waka-->
