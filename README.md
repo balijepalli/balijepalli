@@ -22,6 +22,23 @@
 
 ---
 
+### 📊 GitHub Visual Metrics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=balijepalli&theme=radical&column=7&no-bg=true&no-frame=true" alt="trophies" />
+</div>
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| [![Preetam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=balijepalli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balijepalli&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+
+| GitHub Streak | Contribution Graph |
+| :---: | :---: |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=balijepalli&theme=radical)](https://git.io/streak-stats) | [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balijepalli&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+---
+
+
 ### 🛠️ Technology Stack
 
 | Category | Tools & Technologies |
