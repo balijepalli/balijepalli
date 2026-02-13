@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Preetam Balijepalli</h1>
-  <p><strong>Software Craftsman | Engineering Scalable Microservices, Cloud Platforms & Data/ML Systems</strong></p>
+  <p><strong>Software Craftsman | 25+ Years of Building Scalable Pipelines, Geospatial Systems & ML Infrastructure</strong></p>
 
   <p>
     <a href="https://balijepalli.com"><img src="https://img.shields.io/badge/Website-balijepalli.com-blue?style=flat-square&logo=google-chrome"></a>
@@ -13,12 +13,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 Learning deeper concepts in **Data Engineering**, **ML Pipelines**, and **Scalable Systems**.
-- 👯 Interested in collaborations across **Digital Engineering**, **Geospatial AI**, and **Decision Intelligence**.
-- 🧠 Polyglot developer working across **Java**, **Scala**, and **Python**.
-- ☁️ Advocate for **Cloud-Native Architecture**, Containers, and Secure Engineering.
-- 🧪 Passionate about clean code, rapid prototyping, and microservice design.
-- 🚴 Enjoy cycling, minimalism, green growth, and nature-connected living.
+- 🧠 **25+ years** of polyglot engineering experience across **Java**, **Scala**, **Python**, and **C++**.
+- 🌱 Currently deep-diving into **Data Engineering**, **MLOps**, and **Scalable Computer Vision**.
+- 👯 Expert in building **Geospatial AI** platforms, **Digital Twins**, and **Real-time Analytics** ecosystems.
+- ☁️ Architecting **Cloud-Native Pipelines**, Data Lakes, and Secure Microservices (AWS/Azure).
+- 🧪 Passionate about **TDD**, clean architecture, and automating **DataOps/MLOps** workflows.
+- 🚴 Enjoy cycling, minimalism, and green-growth innovation.
 
 ---
 
@@ -29,21 +29,20 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) |
-| **Data & ML** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
-
+| **Backend & APIs** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **Data & Pipeline** | ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Kedro](https://img.shields.io/badge/-Kedro-0056D2?style=flat-square&logo=kedro&logoColor=white) ![Polars](https://img.shields.io/badge/-Polars-CD7F32?style=flat-square) |
+| **Geospatial & CV** | ![PostGIS](https://img.shields.io/badge/-PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) ![GDAL](https://img.shields.io/badge/-GDAL-003D2F?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| **Cloud & Storage** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Druid](https://img.shields.io/badge/-Druid-292454?style=flat-square&logo=apache-druid&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Keycloak](https://img.shields.io/badge/-Keycloak-FFFFFF?style=flat-square&logo=keycloak&logoColor=black) |
 
 ---
 
-### 🌍 Domains & Experience
-
-- 🍽️ **Retail AI** — Demand prediction & inventory analytics  
-- 🌾 **AgriTech** — Yield optimization, remote sensing (3+ yrs)  
-- 🏦 **BFSI** — Risk modeling, fraud detection (10+ yrs)  
-- 🚦 **Mobility** — Smart traffic and fleet platforms (4 yrs)  
-- 🗺️ **Geospatial AI** — Location intelligence & mapping APIs (3+ yrs)
+### 🌍 Technical Domains
+- 🛰️ **Geospatial Data Engineering** — 3D Point Clouds, Digital Twins, GDAL/PostGIS processing (5+ yrs)
+- 🍽️ **Retail Intelligence** — Semantic layers, time-series forecasting, and demand analytics
+- 🌾 **AgriTech ML** — Yield/stress modeling using remote sensing and CV (3+ yrs)
+- 🏦 **BFSI Systems** — Enterprise risk modeling and fraud detection infrastructure (10+ yrs)
+- 🚦 **Smart Mobility** — Real-time fleet tracking and IoT data platforms (4 yrs)
 
 ---
 
